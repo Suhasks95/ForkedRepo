@@ -3,6 +3,7 @@ public class HelloWorld {
       // Prints "Hello, I am here in the terminal window.
       System.out.println("Hello all, Shahataaz and Yogesh");
       System.out.println("Welcome to devops class, Suhas");	
-      System.out.println("Hello all, Suhas and Tony");
+      System.out.println("Welcome to devops class Modified");
    }
 }
+
