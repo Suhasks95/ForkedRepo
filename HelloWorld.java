@@ -4,6 +4,7 @@ public class HelloWorld {
       System.out.println("Hello all, Shahataaz and Yogesh");
       System.out.println("Welcome to devops class, Suhas");	
       System.out.println("Welcome to devops class Modified");
+      System.out.println("Welcome to devops class Kruthika");
    }
 }
 
